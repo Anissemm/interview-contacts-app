@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$76lv66OFPE355uexMMeKWeNQwMDMqq7fGbUtLs/b7X5ln7WObWs8.",
+      "name": "Test User",
+      "confirmPassword": "password",
+      "id": 1
+    }
+  ],
+  "contacts": [
+    {
+      "userId": 1,
+      "name": "Test",
+      "lastname": "Contact",
+      "phoneNumber": "+7 9000000000",
+      "email": "testcontact@mail.com",
+      "id": 2
+    }
+  ]
+}
